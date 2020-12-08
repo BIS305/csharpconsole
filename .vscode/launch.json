@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/csharpconsole/bin/Debug/net5.0/csharpconsole.dll",
+            "program": "${workspaceFolder}/csharpconsole/bin/Debug/netcoreapp3.1/csharpconsole.dll",
             "args": [],
             "cwd": "${workspaceFolder}/csharpconsole",
             "stopAtEntry": false,
