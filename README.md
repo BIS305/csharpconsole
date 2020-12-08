@@ -1,3 +1,3 @@
-# vscodecsharpconsoledebug
+# csharpconsole
 
-Used as a template for VS Code C# Console apps and the debugging settings.
+### This is the BIS C# Console App Template Repository
